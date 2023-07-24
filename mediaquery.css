@@ -1,0 +1,727 @@
+@media (max-width: 768px) {
+  .content h3 {
+    margin-left: 0px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .navbar-nav a {
+    color: black !important;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  .navbar-nav {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .buttons {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 0px;
+    width: 100%;
+  }
+  .reach {
+    position: relative;
+    top: 163px;
+    display: inline-block;
+    grid-gap: 125px;
+    padding: 40px;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 12px;
+    background-image: linear-gradient(blue, green);
+  }
+  .second-buttons .button2 {
+    font-size: 10px;
+    padding: 4px 14px;
+    margin-left: 3px;
+  }
+  .buttons {
+    justify-content: flex-start;
+    display: grid;
+  }
+  .navbar-light .navbar-toggler {
+    color: white;
+    background: white;
+  }
+  .right-section {
+    top: 3.5rem;
+    position: relative;
+  }
+  .back-color {
+    padding: 40px 0px;
+  }
+  .buttons {
+    display: grid;
+    justify-content: center;
+    padding-left: 0px;
+  }
+  .collapse {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .pic {
+    width: 40px;
+  }
+  .Anime-section {
+    margin: 100px 0px 50px 0px;
+  }
+  .content-section h3 {
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .text-white {
+    color: black;
+  }
+  .lorem h1 {
+    color: white;
+    padding-top: 60px;
+    text-align: center;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+  }
+  .right h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .tech h1 {
+    padding-top: 00px;
+    margin-bottom: 0;
+    font-size: 46px;
+    font-weight: bold;
+  }
+
+  .right-paragraph {
+    color: black;
+    width: 70%;
+    padding: 30px 0px;
+    font-size: 13px;
+  }
+  .buttons a {
+    display: grid;
+    justify-content: flex-end;
+    color: black !important;
+    font-size: 13px;
+  }
+  .buttons .nav-linking {
+    background-color: purple;
+    border: 1px solid purple;
+    border-radius: 8px;
+    padding: 7px 14px;
+    font-size: 8px;
+    color: black;
+  }
+
+  .seven-images-gallery img {
+    width: 80px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .background {
+    padding-top: 110px;
+    background-color: rgb(120, 120, 154);
+    padding-bottom: 128px;
+  }
+  .six-images-gallery img {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 90px;
+    padding: 5px;
+    display: inline-block;
+  }
+  .six-images-gallery .ask {
+    padding: 5px;
+    width: 50px;
+  }
+  .flex-content {
+    width: 39%;
+    text-align: start;
+    padding: 20px 0px;
+    padding: 10px;
+  }
+  .flex-content .check-button {
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: rgb(142, 110, 198);
+    margin-bottom: 5px;
+    border: 1px solid rgb(142, 110, 198);
+    font-size: 9px;
+    padding: 10px;
+    width: 150px;
+  }
+
+  .heading h1 {
+    font-size: 25px;
+  }
+  .paragraph {
+    font-size: 10px;
+  }
+  .marginn {
+    display: inline-block;
+    margin: 30px 0px;
+  }
+
+  .Seco-paragraph {
+    display: inline-block;
+  }
+  .last-parah {
+    font-size: 10px;
+  }
+
+  .ending h4 {
+    padding-bottom: 10px;
+    font-size: 15px;
+    display: inline-block;
+    margin-bottom: 0;
+  }
+  .second-buttons .button2 {
+    font-size: 10px;
+    padding: 4px 14px;
+    margin-bottom: 0;
+  }
+  .second-buttons .button1 {
+    font-size: 10px;
+    padding: 4px 13px;
+    margin-bottom: 0;
+  }
+
+  .content {
+    font-size: 11px;
+    display: inline-block;
+  }
+
+  .second-paragraph {
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 0px;
+  }
+
+  .data h1 {
+    font-size: 35px;
+  }
+  .Anime-paragraph {
+    padding: 15px 0px;
+  }
+  .data {
+    margin-top: 50px;
+  }
+  .readmore {
+    padding-top: 20px;
+  }
+  .image-gallery {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .image-gallery h1 {
+    font-weight: bold;
+    text-align: center;
+  }
+  .backgroundtwo {
+    background-image: linear-gradient(white, rgb(127, 127, 217));
+    padding: 60px;
+  }
+  .right {
+    width: 100%;
+    position: absolute;
+    top: -7px;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 6px;
+    background-image: linear-gradient(to left, rgb(111, 111, 188), white);
+  }
+  .btns {
+    margin: 0;
+    padding: 0;
+  }
+  .email-btn {
+    font-size: 13px;
+    margin-right: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2px 10px;
+    background-color: white;
+    color: black;
+    margin-bottom: 10px;
+  }
+  .google-btn {
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    padding: 2px 10px;
+    background-color: blue;
+    color: white;
+  }
+  .tech-image img {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+  }
+  .tech h1 {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .tech-paragraph {
+    font-size: 15px;
+    margin: 10px 0px;
+  }
+
+  .fantacy-stories {
+    width: 80%;
+    display: inline-block;
+  }
+  .fantacy-stories h1 {
+    font-size: 20px;
+  }
+  .font-text {
+    padding: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(165, 69, 69);
+    display: inline-block;
+  }
+  .fo {
+    padding-top: 14px;
+    font-size: 20px;
+    font-weight: bold;
+    font-size: 17px;
+  }
+  .feature-box .photo .three-images {
+    padding: 5px;
+    width: 20%;
+  }
+
+  h5 {
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+
+  .unicorn {
+    font-size: 10px;
+  }
+  .image {
+    padding: 1px;
+  }
+  .font-small {
+    font-size: 11px;
+  }
+
+  .font-smaller {
+    font-size: 20px;
+    padding: 20px 0px;
+  }
+
+  .reach h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  .custom-carousel button.owl-dot {
+    background: rgb(102, 96, 96);
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    margin: 2px;
+  }
+}
+
+@media (min-width: 767px) and (max-width: 768px) {
+  .owl-dots {
+    margin-left: 39%;
+  }
+}
+
+/* footer */
+.footer-color {
+  padding: 20px;
+  color: white;
+  background-color: rgb(34, 29, 40);
+}
+
+@media (max-width: 768px) {
+  .image-gallery h1::before {
+    display: inline-block;
+    content: "";
+    border-top: 1px solid black;
+    width: 2rem;
+    margin: -0.5rem;
+    margin-right: 1px;
+    transform: translateY(-0.7rem);
+  }
+  .image-gallery h1 {
+    font-size: 15px;
+  }
+  .image-gallery h1::after {
+    display: inline-block;
+    content: "";
+    border-top: 1px solid black;
+    width: 2rem;
+    margin: -0.5rem;
+    margin-left: 1px;
+    transform: translateY(-0.7rem);
+  }
+  .image-gallery h1 {
+    font-size: 15px;
+    line-height: 1.1;
+  }
+}
+@media (max-width: 768px) {
+  .flexing {
+    display: flex;
+    display: inline-block;
+    padding-top: 140px;
+  }
+  .floating-image img {
+    width: 50%;
+    text-align: center;
+  }
+  .technology {
+    display: inline-block;
+    margin: 0;
+    margin: 50px 0px;
+  }
+}
+
+@media (max-width: 768px) {
+  .item {
+    display: flex;
+    display: inline-block;
+  }
+  .buttons .nav-linking {
+    background-color: white;
+    border: none;
+    padding: 7px 14px;
+    font-size: 15px;
+    color: black;
+  }
+  .rowcolm {
+    width: 100%;
+  }
+  .feature-box {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(221, 216, 216);
+    border: 2px solid rgb(221, 216, 216);
+    padding: 20px;
+  }
+}
+
+@media (max-width: 1025px) {
+  .buttons {
+    justify-content: center;
+    padding-left: 0px;
+  }
+  .right {
+    width: 100%;
+    position: absolute;
+    top: 7px;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 6px;
+    background-image: linear-gradient(to left, rgb(111, 111, 188), white);
+  }
+  .card-font {
+    font-size: 18px;
+  }
+  .right-section {
+    top: 2.5rem;
+    position: relative;
+  }
+  .buttons {
+    justify-content: center;
+  }
+}
+@media (min-width: 1023px) and (max-width: 1024) {
+  .buttons {
+    justify-content: center;
+  }
+  .reach {
+    position: relative;
+    top: 160px;
+    display: inline-block;
+    grid-gap: 125px;
+    padding: 40px;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 12px;
+    background-image: linear-gradient(blue, green);
+  }
+}
+
+@media (max-width: 426px) {
+  .reach {
+    position: relative;
+    top: 195px;
+    display: inline-block;
+    grid-gap: 125px;
+    padding: 40px;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 12px;
+    background-image: linear-gradient(blue, green);
+  }
+  .data h1 {
+    font-size: 26px;
+  }
+
+  .technology {
+    margin: 50px 0px;
+  }
+  .Anime-section {
+    margin: 50px 0px 50px 0px;
+  }
+  .tech h1 {
+    padding-top: 0px;
+    margin-bottom: 0;
+    font-size: 26px;
+    font-weight: bold;
+  }
+
+  .buttons .nav-linking {
+    background-color: white;
+    border: none;
+    padding: 7px 14px;
+    font-size: 12px;
+    color: black;
+    width: 100%;
+  }
+  .content-section h3 {
+    margin-left: 0px;
+  }
+
+  .buttons a {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 0px;
+    color: black !important;
+    font-size: 15px;
+    padding-right: 2rem;
+    margin-bottom: 6px;
+  }
+  .buttons {
+    display: grid;
+    padding-left: 0px;
+    align-items: center;
+  }
+  .navbar-nav {
+    padding-left: 0px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0px;
+  }
+
+  .owl-dots {
+    margin-left: 15%;
+  }
+  .footer-color {
+    padding: 20px 0px;
+    color: white;
+    background-color: rgb(34, 29, 40);
+  }
+
+  .right {
+    width: 100%;
+    position: absolute;
+    top: 7px;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 6px;
+    background-image: linear-gradient(to left, rgb(111, 111, 188), white);
+    text-align: center;
+  }
+  .right-paragraph {
+    color: black;
+    width: 100%;
+    padding: 20px;
+    font-size: 13px;
+    padding: 10px 0;
+  }
+  .email-btn {
+    padding-bottom: 0px;
+    padding: 5px 10px;
+  }
+  .google-btn {
+    padding: 5px 10px;
+  }
+  .flex-content .check-button {
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: rgb(142, 110, 198);
+    margin-bottom: 5px;
+    border: 1px solid rgb(142, 110, 198);
+    font-size: 8px;
+    padding: 10px 0px;
+    width: 135px;
+    align-items: flex-start;
+  }
+  .flex-content img {
+    margin-right: 10px;
+    width: 17px;
+  }
+
+  .feature-box .photo .three-images {
+    padding: 10px;
+    width: 12%;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 194px;
+    margin-bottom: 0;
+    list-style: none;
+  }
+}
+@media (max-width: 376px) {
+  .right {
+    width: 100%;
+    position: absolute;
+    top: -6px;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 6px;
+    background-image: linear-gradient(to left, rgb(111, 111, 188), white);
+    text-align: center;
+  }
+  .background {
+    padding-top: 150px;
+    background-color: rgb(120, 120, 154);
+    padding-bottom: 128px;
+  }
+  .reach {
+    position: relative;
+    top: 176px;
+    display: inline-block;
+    grid-gap: 125px;
+    padding: 40px;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 12px;
+    background-image: linear-gradient(blue, green);
+  }
+  .back-color {
+    padding: 20px 0px 0px 0px;
+  }
+  .right-section {
+    top: 3.5rem;
+    position: relative;
+  }
+  .right h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0;
+  }
+  .right-paragraph {
+    color: black;
+    width: 100%;
+    padding: 20px;
+    font-size: 13px;
+    padding: 5px 0;
+  }
+  .email-btn {
+    padding: 5px 10px;
+  }
+}
+
+@media (max-width: 321px) {
+  .right-section {
+    top: 4.5rem;
+    position: relative;
+  }
+  .right {
+    width: 100%;
+    position: absolute;
+    top: -46px;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 6px;
+    background-image: linear-gradient(to left, rgb(111, 111, 188), white);
+    text-align: center;
+  }
+  .fantacy-stories {
+    width: 80%;
+    display: inline-block;
+    margin: 30px 0px;
+  }
+  .buttons a {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 0px;
+    color: black !important;
+    font-size: 10px;
+    margin-bottom: 6px;
+    width: 100%;
+  }
+  .buttons .nav-linking {
+    background-color: white;
+    font-size: 12px;
+    border: none;
+    width: 100%;
+  }
+  .navbar-nav {
+    padding-left: 0px;
+  }
+  .owl-dots {
+    margin-left: 0%;
+  }
+  .right {
+    width: 100%;
+    position: absolute;
+    top: -46px;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 6px;
+    background-image: linear-gradient(to left, rgb(111, 111, 188), white);
+    text-align: center;
+  }
+  .right h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 0;
+  }
+  .right-paragraph {
+    color: black;
+    width: 100%;
+    padding: 20px;
+    font-size: 13px;
+    padding: 3px 0;
+  }
+  .reach {
+    position: relative;
+    top: 198px;
+    display: inline-block;
+    grid-gap: 125px;
+    padding: 40px;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 12px;
+    background-image: linear-gradient(blue, green);
+  }
+  .email-btn {
+    padding: 5px 10px;
+  }
+}

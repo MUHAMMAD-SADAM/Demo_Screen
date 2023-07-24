@@ -1,0 +1,478 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.background-image {
+  background-image: url("home-header-bg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 0px 0px 50px 0px;
+}
+.rowcolm {
+  width: 40%;
+}
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  padding-left: 305px;
+}
+.buttons .nav-linking {
+  background-color: purple;
+  border: 1px solid purple;
+  border-radius: 10px;
+  padding: 7px 18px;
+  font-size: 14px;
+}
+.stars {
+  font-size: 12px;
+}
+
+.buttons a {
+  text-decoration: none;
+}
+
+.heading h1 {
+  line-height: 1.1;
+  color: white;
+  font-size: 65px;
+  margin-right: 80px;
+}
+.paragraph {
+  margin-bottom: 0;
+  padding: 20px 0px 20px 0px;
+  color: white;
+  font-size: 18px;
+}
+
+/* hbjknlm, */
+
+.second-buttons .button2 {
+  color: white;
+  background-color: blue;
+  font-size: 16px;
+  padding: 10px 30px;
+  border-radius: 8px;
+  border: 1px solid blue;
+  margin-left: 20px;
+}
+.second-buttons .button1 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  padding: 10px 30px;
+  background-color: purple;
+  border-radius: 8px;
+  border: 1px solid purple;
+  color: white;
+  margin: 0px 0px 80px 0px;
+}
+
+.flex-content .check-button {
+  color: white;
+  font-weight: bold;
+  border-radius: 11px;
+  font-size: 13px;
+  background-color: rgb(180, 146, 240);
+  border-radius: 10px;
+  margin-bottom: 10px;
+  border: 2px solid rgb(180, 146, 240);
+  padding: 10px;
+  width: 197px;
+}
+
+.navbar {
+  position: relative;
+  bottom: 10px;
+}
+.image {
+  padding: 4px;
+}
+
+.nav-link {
+  padding-right: 2.5rem;
+  font-size: 13px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 2rem;
+}
+
+.navbar-nav a {
+  justify-content: space-between;
+  padding: 30px;
+}
+
+.flex-content img {
+  margin-right: 10px;
+  width: 23px;
+}
+.flex-content {
+  text-align: end;
+}
+.content-section {
+  padding: 50px 0;
+}
+.content-section h3 {
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 30px;
+  width: 50%;
+}
+.second-paragraph {
+  font-size: 15px;
+  margin: 0;
+}
+
+.feature-box {
+  border-radius: 10px;
+  background-color: rgb(221, 216, 216);
+  border: 2px solid rgb(221, 216, 216);
+  padding: 30px;
+}
+
+.photo img {
+  padding: 10px;
+  width: 13%;
+  background-color: black;
+}
+.fo {
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.image img {
+  margin-right: 10px;
+  width: 17px;
+}
+span {
+  font-weight: 500;
+}
+.data {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.data h1 {
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.readmore {
+  padding-top: 40px;
+  font-weight: bold;
+  color: purple;
+}
+.Anime-section {
+  margin: 100px 0;
+}
+.Anime-paragraph {
+  padding: 30px 0px;
+  margin-bottom: 0px;
+}
+.image-gallery h1 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0;
+}
+.seven-images-gallery img {
+  width: 150px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.six-images-gallery img {
+  margin-left: 10px;
+  width: 180px;
+  padding: 5px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.six-images-gallery .ask {
+  padding: 5px;
+  width: 90px;
+}
+.technology {
+  display: flex;
+  margin: 50px 0px;
+}
+
+.tech-image img {
+  width: 100%;
+}
+.tech h1 {
+  padding-top: 100px;
+  margin-bottom: 0;
+  font-size: 46px;
+  font-weight: bold;
+}
+.tech-paragraph {
+  font-size: 15px;
+  padding: 30px 0px;
+  width: 60%;
+}
+.floating-image {
+  align-self: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.floating-image img {
+  width: 90%;
+}
+
+/* cgvhbj */
+
+.fantacy-stories h1 {
+  margin-bottom: 0;
+  font-size: 40px;
+}
+.back-color {
+  padding: 50px;
+  background-color: rgb(188, 177, 177);
+}
+.Seco-paragraph {
+  padding-top: 20px;
+  margin-bottom: 0;
+}
+
+/* bjnklm */
+
+.font-text {
+  margin-bottom: 0;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 35px;
+  color: rgb(165, 69, 69);
+}
+
+.font-smaller {
+  margin-bottom: 0;
+  font-size: 18px;
+}
+/* kcgvhjb */
+.reach {
+  position: relative;
+  top: 154px;
+  display: grid;
+  grid-gap: 125px;
+  padding: 40px;
+  display: flex;
+  border-radius: 20px;
+  font-size: 12px;
+  background-image: linear-gradient(blue, green);
+}
+.reach h1 {
+  color: white;
+  padding-right: 50px;
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 0;
+}
+.reach-paragraph {
+  color: white;
+  padding-top: 30px;
+  font-size: 15px;
+  margin-bottom: 0;
+}
+.background {
+  padding-top: 1px;
+  background-color: rgb(120, 120, 154);
+  padding-bottom: 256px;
+}
+.lorem h1 {
+  color: white;
+  padding-bottom: 50px;
+  text-align: center;
+  padding-top: 200px;
+  margin-bottom: 0px;
+}
+
+.marginn {
+  padding-top: 50px;
+}
+
+/* styling of slider */
+
+.item {
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: white;
+  padding: 30px;
+}
+.pic {
+  width: 15%;
+  margin-bottom: 8px;
+}
+
+/* Moving Buttons */
+
+.custom-carousel button.owl-dot {
+  background: rgb(102, 96, 96);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin: 2px;
+}
+.owl-dots {
+  margin-left: 45%;
+  padding: 10px;
+}
+.owl-dots .active {
+  background: white !important;
+  border: 2px solid purple !important;
+  border-radius: 50%;
+}
+.custom-carousel button.owl-dot:active {
+  background: rgb(138, 126, 126) !important;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+}
+
+.custom-carousel .owl-nav button.owl-next,
+.custom-carousel .owl-nav button.owl-prev {
+  display: none;
+}
+
+.card-image img {
+  display: inline-block;
+}
+
+.card-image {
+  margin-bottom: -5px;
+  display: flex;
+}
+h5 {
+  padding-left: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.unicorn {
+  padding-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 0;
+}
+.fo {
+  font-weight: bold;
+  padding-bottom: 10px;
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+.font-small {
+  font-size: 11px;
+  margin-bottom: 0rem;
+}
+
+.card-font {
+  font-size: 15px;
+}
+/* jkn */
+.right {
+  width: 100%;
+  position: absolute;
+  padding: 100px;
+  border-radius: 20px;
+  font-size: 12px;
+  background-image: linear-gradient(to left, rgb(111, 111, 188), white);
+}
+.right-section {
+  top: 7rem;
+  position: relative;
+}
+.right h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 0;
+}
+.navbar-toggler:focus {
+  text-decoration: none;
+  outline: 0;
+  box-shadow: 0 0 0 0rem;
+}
+.right-paragraph {
+  color: black;
+  width: 50%;
+  padding-top: 50px;
+  margin-bottom: 0;
+  font-size: 15px;
+}
+
+.backgroundtwo {
+  padding-top: 1px;
+  background-image: linear-gradient(white, rgb(127, 127, 217));
+  padding: 130px;
+}
+.email-btn {
+  font-size: 15px;
+  margin-right: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 30px;
+  background-color: white;
+  color: black;
+}
+.google-btn {
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px solid blue;
+  padding: 10px 30px;
+  background-color: blue;
+  color: white;
+}
+.btns {
+  padding: 80px 0px 30px 0px;
+}
+.coloring {
+  color: white;
+  background-color: rgb(34, 29, 40);
+  border-bottom: 1px solid white;
+}
+.flexing {
+  display: flex;
+  padding-top: 280px;
+}
+.ending {
+  margin-bottom: 40px;
+}
+.ending h4 {
+  padding-bottom: 20px;
+  font-size: 24px;
+  display: inline-block;
+}
+
+.last-para {
+  font-size: 15px;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+}
+
+/* footer */
+
+.footer-color {
+  padding: 20px;
+  color: white;
+  background-color: rgb(34, 29, 40);
+}
+
+/* Before and after  */
+
+.image-gallery h1 {
+  position: relative;
+}
+.image-gallery h1::before,
+.image-gallery h1::after {
+  display: inline-block;
+  content: "";
+  border-top: 1px solid black;
+  width: 6rem;
+  margin: 0px 12px;
+  transform: translateY(-0.7rem);
+}
