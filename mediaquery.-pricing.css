@@ -1,0 +1,421 @@
+/* Media query of 768 */
+
+@media (max-width: 768px) {
+  .growth-heading {
+    text-align: center;
+    padding: 12.5px;
+  }
+  .heading {
+    padding-top: 20px;
+  }
+  .growth-heading h1 {
+    font-size: 20px;
+    font-weight: 450;
+    margin-bottom: 0;
+  }
+  .sidenav{
+    background-color: white;
+  }
+
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white !important;
+    display: block;
+    transition: 0.3s;
+  }
+  .growth-heading h4 {
+    font-size: 1rem;
+    margin-bottom: 0;
+  }
+  span {
+    font-size: 15px;
+    font-weight: 100;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+  }
+  .reach-button {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 13px;
+    font-weight: bold;
+    width: 25%;
+    height: 40px;
+    text-align: center;
+  }
+
+  .marginn {
+    margin-bottom: 50px;
+  }
+  .backgroundtwo {
+    background-color: whitesmoke;
+    padding: 20px;
+  }
+  .last-parah {
+    font-size: 10px;
+  }
+  .flexing {
+    display: inline-block;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .ending h4 {
+    padding-top: 40px;
+    font-size: 15px;
+    display: inline-block;
+    margin-bottom: 0;
+  }
+
+  .growth-heading .best-saller {
+    position: absolute;
+    bottom: 23.3rem;
+    right: 20px;
+    background-color: rgb(192, 149, 192);
+    border: purple;
+    border-radius: 3px;
+    font-size: 10px;
+    padding: 6px 15px;
+    color: purple;
+  }
+  p {
+    margin-bottom: 0;
+    padding-bottom: 1rem;
+  }
+  .card {
+    border: 1px solid purple;
+    border-radius: 5px;
+  }
+  .card-body {
+    background-color: whitesmoke;
+    border-bottom: 1px solid purple;
+    border-radius: 4px;
+  }
+  .accordian-heading {
+    padding-bottom: 50px;
+  }
+  .faq-section {
+    margin: 0px 0px 40px 0px;
+  }
+
+  .reach {
+    grid-gap: 20px;
+    display: flex;
+    padding: 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(blue, green);
+  }
+  .reach h1 {
+    color: white;
+    width: 100%;
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0;
+  }
+  .font-sizing {
+    font-size: 15px;
+  }
+  .fa-solid {
+    padding-right: 5px;
+  }
+
+  .btn {
+    text-align: center;
+    background-color: purple;
+    color: white;
+    border: 1px solid purple;
+    padding: 4px 8px;
+    text-align: center;
+  }
+  /* gvhbjknlm */
+  .navbar-nav a {
+    color: black !important;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  .navbar {
+    position: relative;
+    bottom: 10px;
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 0;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0;
+    left: 0px;
+    position: relative;
+  }
+  .navbar-nav {
+    justify-content: center;
+    width: 100%;
+  }
+  .card {
+  
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  .menu-img img {
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    padding-left: 0;
+    
+  }
+  .navbar-brand img {
+    width: 30%;
+  }
+  .navbar-light .navbar-toggler {
+    color: white;
+    background-color: white;
+  }
+
+  .collapse {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .buttons .nav-linking {
+    background-color: white;
+    border: none;
+    padding: 7px 14px;
+    font-size: 15px;
+    color: black;
+  }
+  .buttons {
+    display: flex;
+    /* justify-content: flex-end; */
+    width: 100%;
+  }
+
+  .buttons {
+    display: grid;
+  }
+  .buttons {
+    display: grid;
+    justify-content: center;
+    padding-left: 0px;
+  }
+  .buttons a {
+    display: grid;
+    color: black !important;
+    font-size: 13px;
+    padding: 0px;
+  }
+}
+
+/* Media query of 426 */
+@media (max-width: 426px) {
+  .navbar-nav {
+    padding-left: 0px;
+  }
+  .growth-heading .best-saller {
+    position: absolute;
+    bottom: 23rem;
+    right: 20px;
+    background-color: rgb(192, 149, 192);
+    border: purple;
+    border-radius: 3px;
+    font-size: 10px;
+    padding: 6px 15px;
+    color: purple;
+  }
+  .footer-color {
+    padding: 20px 0px;
+    color: white;
+    background-color: rgb(34, 29, 40);
+  }
+  .reach-button {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    width: 45%;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .reach h1 {
+    margin-top: 0;
+    padding-bottom: 20px;
+  }
+
+  .buttons .nav-linking {
+    background-color: white;
+    justify-content: flex-start;
+    border: none;
+    padding: 6px 15px;
+    font-size: 12px;
+    color: black;
+    width: 100%;
+  }
+  .buttons a {
+    display: flex;
+    justify-content: center;
+    padding-left: 0px;
+    color: black !important;
+    font-size: 15px;
+    padding-right: 0;
+    margin-bottom: 0;
+  }
+  .buttons {
+    display: grid;
+    padding-left: 0px;
+    align-items: center;
+  }
+}
+/* Media query of 376 */
+@media (max-width: 376px) {
+  .reach {
+    display: inline-block;
+    border-radius: 10px;
+  }
+}
+
+/* Media query of 321 */
+@media (max-width: 321px) {
+  .navbar-nav {
+    padding-left: 0px;
+  }
+  .growth-heading .best-saller {
+    position: absolute;
+    bottom: 21.3rem;
+    right: 20px;
+    background-color: rgb(192, 149, 192);
+    border: purple;
+    border-radius: 3px;
+    font-size: 10px;
+    padding: 6px 15px;
+    color: purple;
+  }
+  .reach {
+    display: inline-block;
+    border-radius: 10px;
+  }
+  .reach-button {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 0px;
+    font-size: 13px;
+    font-weight: bold;
+    width: 53%;
+    text-align: center;
+  }
+  .font-sizing {
+    font-size: 12px;
+  }
+  .buttons .nav-linking {
+    background-color: white;
+    font-size: 12px;
+    border: none;
+    width: 100%;
+  }
+  .buttons a {
+    display: flex;
+    justify-content: center;
+    padding-left: 0px;
+    color: black !important;
+    font-size: 10px;
+    margin-bottom: 6px;
+    width: 100%;
+  }
+}
+
+/* Media query of 992 */
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+  }
+  .navbar-nav {
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 0;
+    list-style: none;
+  }
+}
+/* Media query of 1025 */
+
+@media (min-width: 1440px) and (max-width: 1441) {
+  .growth-heading .best-saller {
+    position: absolute;
+    bottom: 29.3rem;
+    right: 20px;
+    background-color: rgb(192, 149, 192);
+    border: purple;
+    border-radius: 3px;
+    font-size: 10px;
+    padding: 6px 15px;
+    color: purple;
+  }
+}
+@media (max-width: 1025px) {
+  .buttons {
+    justify-content: center;
+    padding-left: 0px;
+    text-align: center;
+  }
+}
+
+/* Media query b/w 1023 and 1024 */
+
+@media (min-width: 1023px) and (max-width: 1024) {
+  .buttons {
+    justify-content: center;
+
+  }
+  .growth-heading .best-saller {
+    position: absolute;
+    bottom: 38.8rem;
+    right: 20px;
+    background-color: rgb(192, 149, 192);
+    border: purple;
+    border-radius: 3px;
+    font-size: 10px;
+    padding: 6px 15px;
+    color: purple;
+  }
+}
+@media (min-width: 767px) and (max-width: 768px) {
+  .owl-dots {
+    margin-left: 39%;
+  }
+}
+
+/* footer */
+.footer-color {
+  padding: 20px 0px;
+  color: white;
+  background-color: rgb(34, 29, 40);
+}
+
+
+@media (min-width: 992px) and (max-width: 1440) {
+  .font-sizing{
+  font-size: 11px;
+  }
+  .btn {
+    text-align: center;
+    background-color: purple;
+    color: white;
+    border: 1px solid purple;
+    padding: 0px;
+    font-size: 10px;
+    text-align: center;
+  }
+}
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;
+  }
+  .sidenav a {font-size: 18px;}
+}
